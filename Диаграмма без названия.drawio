@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T17:56:46.202Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" etag="FTeUGAfe36ZBqE9b1zw5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T17:58:58.408Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="gDwupK-4EiBQ6WeeZ4Oq" version="24.5.4" type="github">
   <diagram name="Страница — 1" id="dWPZbyHKNFky_QBxorTR">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-4ySxjFKBCZBjsnX5pwf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4ySxjFKBCZBjsnX5pwf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4ySxjFKBCZBjsnX5pwf-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="327" y="145" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-4ySxjFKBCZBjsnX5pwf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
